@@ -42,7 +42,7 @@ o	Created a new metric, TotalSpend, by multiplying Quantity by UnitPrice, then a
 o	Segmented customers into: 
 	Low Spend (< $100): Budget-conscious or occasional buyers.
 	Medium Spend ($100 - $500): Regular customers with moderate purchase patterns.
-	High Spend (> $500): High-value customers contributing most to revenue.
+	High Spend (> $500): High-value customers contribute most to revenue.
 •	Insights Gained: 
 o	High spenders comprised a small percentage but accounted for the majority of revenue.
 o	Medium spenders represented the largest customer group, showing potential for upselling.
@@ -89,4 +89,3 @@ Future Improvements
 •	Implement tools for real-time monitoring of customer behavior and sales trends, allowing quicker adjustments.
 By combining these advanced methods with the foundations established here, businesses can continuously evolve and maintain a competitive edge.
 
-![image](https://github.com/user-attachments/assets/9ae7859e-1e73-4b7e-9288-243b641316b7)
